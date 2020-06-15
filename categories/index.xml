@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on سورینت وب</title>
-    <link>https://sorinetweb.github.io/categories/</link>
+    <link>https://sorinetweb.ir/categories/</link>
     <description>Recent content in Categories on سورینت وب</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Thu, 14 Nov 2019 14:37:35 +0430</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     
-        <atom:link href="https://sorinetweb.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sorinetweb.ir/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>SEO</title>
-        <link>https://sorinetweb.github.io/categories/seo/</link>
+        <link>https://sorinetweb.ir/categories/seo/</link>
         <pubDate>Thu, 14 Nov 2019 14:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/categories/seo/</guid>
+        <guid>https://sorinetweb.ir/categories/seo/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>آموزشی</title>
-        <link>https://sorinetweb.github.io/categories/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</link>
+        <link>https://sorinetweb.ir/categories/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</link>
         <pubDate>Thu, 14 Nov 2019 14:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/categories/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</guid>
+        <guid>https://sorinetweb.ir/categories/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>
@@ -61,11 +61,11 @@
       
       <item>
         <title>Scripts</title>
-        <link>https://sorinetweb.github.io/categories/scripts/</link>
+        <link>https://sorinetweb.ir/categories/scripts/</link>
         <pubDate>Thu, 31 Oct 2019 19:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/categories/scripts/</guid>
+        <guid>https://sorinetweb.ir/categories/scripts/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>
@@ -79,11 +79,11 @@
       
       <item>
         <title>Services</title>
-        <link>https://sorinetweb.github.io/categories/services/</link>
+        <link>https://sorinetweb.ir/categories/services/</link>
         <pubDate>Mon, 28 Oct 2019 14:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/categories/services/</guid>
+        <guid>https://sorinetweb.ir/categories/services/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>

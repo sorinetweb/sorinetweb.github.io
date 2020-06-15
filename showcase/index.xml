@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>ویترین on سورینت وب</title>
-    <link>https://sorinetweb.github.io/showcase/</link>
+    <link>https://sorinetweb.ir/showcase/</link>
     <description>Recent content in ویترین on سورینت وب</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sun, 14 Jun 2020 16:43:38 +0430</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     
-        <atom:link href="https://sorinetweb.github.io/showcase/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sorinetweb.ir/showcase/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>پروژه ها</title>
-        <link>https://sorinetweb.github.io/showcase/projects/</link>
+        <link>https://sorinetweb.ir/showcase/projects/</link>
         <pubDate>Sun, 19 Jan 2020 21:04:11 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         <atom:modified>Sun, 19 Jan 2020 21:04:11 +0430</atom:modified>
-        <guid>https://sorinetweb.github.io/showcase/projects/</guid>
+        <guid>https://sorinetweb.ir/showcase/projects/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>

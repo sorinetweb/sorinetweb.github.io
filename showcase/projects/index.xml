@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>پروژه ها on سورینت وب</title>
-    <link>https://sorinetweb.github.io/showcase/projects/</link>
+    <link>https://sorinetweb.ir/showcase/projects/</link>
     <description>Recent content in پروژه ها on سورینت وب</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0430</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     
-        <atom:link href="https://sorinetweb.github.io/showcase/projects/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sorinetweb.ir/showcase/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on سورینت وب</title>
-    <link>https://sorinetweb.github.io/tags/index/</link>
+    <link>https://sorinetweb.ir/tags/index/</link>
     <description>Recent content in index on سورینت وب</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}</copyright>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     
-        <atom:link href="https://sorinetweb.github.io/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sorinetweb.ir/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>مطالب</title>
-        <link>https://sorinetweb.github.io/posts/</link>
+        <link>https://sorinetweb.ir/posts/</link>
         <pubDate>Thu, 14 Nov 2019 14:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/posts/</guid>
+        <guid>https://sorinetweb.ir/posts/</guid>
         <description></description>
         
         <dc:creator>SorinetWeb</dc:creator>

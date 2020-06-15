@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>آرشیو on سورینت وب</title>
-    <link>https://sorinetweb.github.io/archive/</link>
+    <link>https://sorinetweb.ir/archive/</link>
     <description>Recent content in آرشیو on سورینت وب</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0430</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     
-        <atom:link href="https://sorinetweb.github.io/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sorinetweb.ir/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     

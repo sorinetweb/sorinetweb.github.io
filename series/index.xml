@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on سورینت وب</title>
-    <link>https://sorinetweb.github.io/series/</link>
+    <link>https://sorinetweb.ir/series/</link>
     <description>Recent content in Series on سورینت وب</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
@@ -17,7 +17,7 @@
     <lastBuildDate>Thu, 14 Nov 2019 14:37:35 +0430</lastBuildDate>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     
-        <atom:link href="https://sorinetweb.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://sorinetweb.ir/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -25,11 +25,11 @@
       
       <item>
         <title>نکات طراحی سایت</title>
-        <link>https://sorinetweb.github.io/series/%D9%86%DA%A9%D8%A7%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/</link>
+        <link>https://sorinetweb.ir/series/%D9%86%DA%A9%D8%A7%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/</link>
         <pubDate>Thu, 14 Nov 2019 14:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/series/%D9%86%DA%A9%D8%A7%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/</guid>
+        <guid>https://sorinetweb.ir/series/%D9%86%DA%A9%D8%A7%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%DB%8C%D8%AA/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>
@@ -43,11 +43,11 @@
       
       <item>
         <title>فروشگاه</title>
-        <link>https://sorinetweb.github.io/series/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87/</link>
+        <link>https://sorinetweb.ir/series/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87/</link>
         <pubDate>Thu, 31 Oct 2019 19:37:35 +0430</pubDate>
         <author>sorinet@pm.me (سورینت وب)</author>
         
-        <guid>https://sorinetweb.github.io/series/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87/</guid>
+        <guid>https://sorinetweb.ir/series/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87/</guid>
         <description></description>
         
         <dc:creator>سورینت وب</dc:creator>
