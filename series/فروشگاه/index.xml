@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>فروشگاه on سورینت وب</title>
+    <link>https://sorinetweb.github.io/series/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87/</link>
+    <description>Recent content in فروشگاه on سورینت وب</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <managingEditor>sorinet@pm.me (سورینت وب)</managingEditor>
+    <webMaster>sorinet@pm.me (سورینت وب)</webMaster>
+    <copyright>&amp;copy;{year}</copyright>
+    <lastBuildDate>Thu, 31 Oct 2019 19:37:35 +0430</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    
+        <atom:link href="https://sorinetweb.github.io/series/%D9%81%D8%B1%D9%88%D8%B4%DA%AF%D8%A7%D9%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>اسکریپت صفحه شخصی و پروفایل CVsite نسخه ۱</title>
+        <link>https://sorinetweb.github.io/posts/2019/10/31/180/cvsite-resume-script-v1/</link>
+        <pubDate>Thu, 31 Oct 2019 19:37:35 +0430</pubDate>
+        <author>sorinet@pm.me (سورینت وب)</author>
+        <atom:modified>Thu, 31 Oct 2019 19:37:35 +0430</atom:modified>
+        <guid>https://sorinetweb.github.io/posts/2019/10/31/180/cvsite-resume-script-v1/</guid>
+        <description>اولین اسکریپتی که در بخش فروشگاه سایت سورینت وب برای شما مخاطبین گرامی قرار داده می شود، اسکریپت صفحه شخصی و یا همان رزومه برای معرفی کسب و کار شما می باشد که به وسیله آن قادر خواهید بود با کمترین هزینه و زمان در چند دقیقه کسب و کار خود را به دنیا و سایرین معرفی کنید.
+با تهیه اسکریپت صفحه شخصی و پروفایل CVsite نسخه ۱ مخاطبین شما با مراجعه به سایت شما می توانند تخصص، سوابق کاری، شبکه های اجتماعی و رزومه شما و یا هر آنچه که می خواهید به مراجعین و بازدید کنندگان خود ارائه کنید را در قالب یک صفحه کم حجم و زیبا مشاهده کنند.</description>
+        
+        <dc:creator>Admin</dc:creator>
+        <media:content url="https://sorinetweb.github.ioimages/posts/career.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cvsite</category>
+            
+          
+            
+              <category>اسکریپت</category>
+            
+          
+            
+              <category>رزومه</category>
+            
+          
+            
+              <category>پروفایل</category>
+            
+          
+            
+              <category>صفحه شخصی</category>
+            
+          
+        
+        
+          
+            
+              <category>Scripts</category>
+            
+          
+        
+        
+          
+            
+              <category>فروشگاه</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>رجیستری گوشی مسافری و دریافت آنی پیامک فعالسازی</title>
+        <link>https://sorinetweb.github.io/posts/2019/10/28/149/%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%DB%8C-%DA%AF%D9%85%D8%B1%DA%A9/</link>
+        <pubDate>Mon, 28 Oct 2019 14:37:35 +0430</pubDate>
+        <author>sorinet@pm.me (سورینت وب)</author>
+        <atom:modified>Mon, 28 Oct 2019 14:37:35 +0430</atom:modified>
+        <guid>https://sorinetweb.github.io/posts/2019/10/28/149/%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%DA%AF%D9%88%D8%B4%DB%8C-%D9%85%D8%B3%D8%A7%D9%81%D8%B1%DB%8C-%DA%AF%D9%85%D8%B1%DA%A9/</guid>
+        <description>طرح رجیستری موبایل با هدف جلوگیری از وارد کردن گوشی های قاچاق به داخل کشور ایجاد شده است. طبق این طرح تمامی گوشی های موبایل و دستگاه های وارد شده به کشور ۳۰ روز مهلت دارند تا با استفاده از شناسه گوشی تلفن همراه IMEI اقدام به پرداخت عوارض گمرک (۱۶% ارزش گوشی با دلار سامانه سنا) و پس از آن رجیستر در سامانه هوشمند مدیریت تجهیزات ارتباطی (همتا) نمایند؛ در غیر این صورت دستگاه مذکور غیر قانونی و قاچاق شناخته خواهد شد و از اپراتورهای موبایل سرویس نخواهد گرفت.</description>
+        
+        <dc:creator>Admin</dc:creator>
+        <media:content url="https://sorinetweb.github.ioimages/posts/mobile-registry.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>seo</category>
+            
+          
+            
+              <category>همتا</category>
+            
+          
+            
+              <category>پنجره واحد</category>
+            
+          
+            
+              <category>رجیستری</category>
+            
+          
+        
+        
+          
+            
+              <category>Services</category>
+            
+          
+        
+        
+          
+            
+              <category>فروشگاه</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
