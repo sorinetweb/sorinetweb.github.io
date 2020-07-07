@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>آرشیو on سورینت وب</title>
+    <link>https://sorinetweb.ir/blog/archive/</link>
+    <description>Recent content in آرشیو on سورینت وب</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <managingEditor>sorinet@pm.me (سورینت وب)</managingEditor>
+    <webMaster>sorinet@pm.me (سورینت وب)</webMaster>
+    <copyright>&amp;copy;{year}</copyright>
+    <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0430</lastBuildDate>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    
+        <atom:link href="https://sorinetweb.ir/blog/archive/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+
+    
+  </channel>
+</rss>
