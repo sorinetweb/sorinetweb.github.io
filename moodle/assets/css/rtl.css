@@ -1,0 +1,233 @@
+/*
+Theme Name: Appnic
+Author: RedGraphic
+Author URI: http://redgraphic.ir
+Version: 1.0
+*/
+
+@font-face{
+    font-family:shabnam;
+    font-style:normal;
+    font-weight:bold;
+    src:url('../fonts/Shabnam-Bold-FD.eot');
+    src:url('../fonts/Shabnam-Bold-FDd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Shabnam-Bold-FD.html') format('woff2'), url('../fonts/Shabnam-Bold-FD.woff') format('woff'), url('../fonts/Shabnam-Bold-FD.ttf') format('truetype')
+}
+@font-face{
+    font-family:shabnam;
+    font-style:normal;
+    font-weight:normal;
+    src:url('../fonts/Shabnam-FD.eot');
+    src:url('../fonts/Shabnam-FDd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Shabnam-FD.html') format('woff2'), url('../fonts/Shabnam-FD.woff') format('woff'), url('../fonts/Shabnam-FD.ttf') format('truetype')
+}
+@font-face{
+    font-family:shabnam;
+    font-style:normal;
+    font-weight:300;
+    src:url('../fonts/Shabnam-Light-FD.eot');
+    src:url('../fonts/Shabnam-Light-FDd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/Shabnam-Light-FD.html') format('woff2'), url('../fonts/Shabnam-Light-FD.woff') format('woff'), url('../fonts/Shabnam-Light-FD.ttf') format('truetype')
+}
+
+body{direction:rtl;text-align:right;}
+.dropdown-item{text-align:right;padding-right:20px;}
+.dropdown-toggle::after{margin-left: 0;margin-right: .255em;}
+.main-menu li a.dropdown-item{font-size:14px;}
+.welcome_right{right:auto;left:7%;}
+a.video_btn{margin-left:0;margin-right:20px;}
+a.single-future{text-align:right;}
+.custom_btn.cta-2{margon-left:0;margin-right:15px;}
+a.custom_btn i{padding-right:0;padding-left:5px;}
+.screens,.testimonials{direction:ltr;}
+.signle-testimonial{direction:rtl;}
+.testimonial-author img{float: right;}
+.testimonial-author strong{margin-right: 20px;float: right;}
+.signle-testimonial:after{left:-5%;right:inherit;}
+.signle-testimonial:before{right:8%;left:inherit;transform:scale(-1)}
+.signle-testimonial p{font-style:normal;}
+a.up_btn{left:1%;right:auto;}
+.pricing_tab i{margin-right:0;margin-left:10px;}
+.single-pricing ul{text-align:right;}
+.single-pricing i{margin-right:0;margin-left:15px;}
+.single-pricing h5 small{font-size:16px;}
+.testimonial-area{overflow:hidden;}
+.slicknav_btn{float:left;text-align:left;direction:ltr;}
+.mobile_menu .slicknav_nav .slicknav_row, .slicknav_nav a{text-align:right;font-family:shabnam;display:block;}
+.mobile_menu .slicknav_nav{padding:40px 20px;}
+.dropdown-menu{right:0;}
+.welcome_right.v2{left:8%;right:inherit;}
+.welcome-area.v2 .welcome-text h1{font-size:60px;}
+.app-btn-text{text-align:right;}
+.welcome_right.v3{left:10%;right:inherit;}
+.welcome_right.v5_2{left:26%;right:inherit;}
+.welcome_right.v5_3{left:5%;right:inherit;}
+.app-btns.v4 .app-btn-text{text-align:right;}
+.footer-area.v2 p a{color:#fff;}
+.welcome-area.v5:after{left:0;right:inherit;}
+.welcome-area.v5:before{left:0;right:inherit;}
+.welcome_right.v5{left:0;right:inherit;}
+.search_box button{left:3.5%;right:auto;}
+span.blog_inactive{width:5px;height:5px;}
+.recent-img img{float:right;margin-right:0;margin-left:20px;}
+.comment_img img{float:right;margin-right:0;margin-left:30px;}
+
+.col-xs-offset-right-12 {
+  margin-right: 100%;
+}
+.col-xs-offset-right-11 {
+  margin-right: 91.66666667%;
+}
+.col-xs-offset-right-10 {
+  margin-right: 83.33333333%;
+}
+.col-xs-offset-right-9 {
+  margin-right: 75%;
+}
+.col-xs-offset-right-8 {
+  margin-right: 66.66666667%;
+}
+.col-xs-offset-right-7 {
+  margin-right: 58.33333333%;
+}
+.col-xs-offset-right-6 {
+  margin-right: 50%;
+}
+.col-xs-offset-right-5 {
+  margin-right: 41.66666667%;
+}
+.col-xs-offset-right-4 {
+  margin-right: 33.33333333%;
+}
+.col-xs-offset-right-3 {
+  margin-right: 25%;
+}
+.col-xs-offset-right-2 {
+  margin-right: 16.66666667%;
+}
+.col-xs-offset-right-1 {
+  margin-right: 8.33333333%;
+}
+.col-xs-offset-right-0 {
+  margin-right: 0;
+}
+@media (min-width: 768px) {
+  .col-sm-offset-right-12 {
+    margin-right: 100%;
+  }
+  .col-sm-offset-right-11 {
+    margin-right: 91.66666667%;
+  }
+  .col-sm-offset-right-10 {
+    margin-right: 83.33333333%;
+  }
+  .col-sm-offset-right-9 {
+    margin-right: 75%;
+  }
+  .col-sm-offset-right-8 {
+    margin-right: 66.66666667%;
+  }
+  .col-sm-offset-right-7 {
+    margin-right: 58.33333333%;
+  }
+  .col-sm-offset-right-6 {
+    margin-right: 50%;
+  }
+  .col-sm-offset-right-5 {
+    margin-right: 41.66666667%;
+  }
+  .col-sm-offset-right-4 {
+    margin-right: 33.33333333%;
+  }
+  .col-sm-offset-right-3 {
+    margin-right: 25%;
+  }
+  .col-sm-offset-right-2 {
+    margin-right: 16.66666667%;
+  }
+  .col-sm-offset-right-1 {
+    margin-right: 8.33333333%;
+  }
+  .col-sm-offset-right-0 {
+    margin-right: 0;
+  }
+}
+@media (min-width: 992px) {
+  .col-md-offset-right-12 {
+    margin-right: 100%;
+  }
+  .col-md-offset-right-11 {
+    margin-right: 91.66666667%;
+  }
+  .col-md-offset-right-10 {
+    margin-right: 83.33333333%;
+  }
+  .col-md-offset-right-9 {
+    margin-right: 75%;
+  }
+  .col-md-offset-right-8 {
+    margin-right: 66.66666667%;
+  }
+  .col-md-offset-right-7 {
+    margin-right: 58.33333333%;
+  }
+  .col-md-offset-right-6 {
+    margin-right: 50%;
+  }
+  .col-md-offset-right-5 {
+    margin-right: 41.66666667%;
+  }
+  .col-md-offset-right-4 {
+    margin-right: 33.33333333%;
+  }
+  .col-md-offset-right-3 {
+    margin-right: 25%;
+  }
+  .col-md-offset-right-2 {
+    margin-right: 16.66666667%;
+  }
+  .col-md-offset-right-1 {
+    margin-right: 8.33333333%;
+  }
+  .col-md-offset-right-0 {
+    margin-right: 0;
+  }
+}
+@media (min-width: 1200px) {
+  .col-lg-offset-right-12 {
+    margin-right: 100%;
+  }
+  .col-lg-offset-right-11 {
+    margin-right: 91.66666667%;
+  }
+  .col-lg-offset-right-10 {
+    margin-right: 83.33333333%;
+  }
+  .col-lg-offset-right-9 {
+    margin-right: 75%;
+  }
+  .col-lg-offset-right-8 {
+    margin-right: 66.66666667%;
+  }
+  .col-lg-offset-right-7 {
+    margin-right: 58.33333333%;
+  }
+  .col-lg-offset-right-6 {
+    margin-right: 50%;
+  }
+  .col-lg-offset-right-5 {
+    margin-right: 41.66666667%;
+  }
+  .col-lg-offset-right-4 {
+    margin-right: 33.33333333%;
+  }
+  .col-lg-offset-right-3 {
+    margin-right: 25%;
+  }
+  .col-lg-offset-right-2 {
+    margin-right: 16.66666667%;
+  }
+  .col-lg-offset-right-1 {
+    margin-right: 8.33333333%;
+  }
+  .col-lg-offset-right-0 {
+    margin-right: 0;
+  }
+}
