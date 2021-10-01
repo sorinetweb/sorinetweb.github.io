@@ -1,20 +1,20 @@
 {
     "name": "SorinetWeb",
-    "short_name": "Sorinet",
+    "short_name": "SorinetWeb",
     "icons": [
         {
-            "src": "/blog/android-chrome-192x192.png",
+            "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "/blog/android-chrome-512x512.png",
+            "src": "/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
     ],
-    "start_url": "/blog",
+    "start_url": "/",
     "display": "standalone",
     "orientation" : "portrait",
     "background_color": "#FFFFFF",
