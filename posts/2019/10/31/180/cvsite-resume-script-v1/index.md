@@ -31,7 +31,7 @@
 
 ## دریافت اسکریپت صفحه شخصی و پروفایل CVsite 
 {{< admonition success "سفارش" >}}
-برای خرید و دانلود اسکریپت صفحه شخصی و پروفایل CVsite مخصوص ایجاد رزومه [اینجا را :(far fa-file-archive fa-fw): کلیک کنید.](https://www.payping.ir/d/vi3I)
+برای خرید و دانلود اسکریپت صفحه شخصی و پروفایل CVsite مخصوص ایجاد رزومه [اینجا را :(far fa-file-archive fa-fw): کلیک کنید.](/)
 {{< /admonition >}}
 
 
